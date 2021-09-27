@@ -1,5 +1,5 @@
 <div>
-    <h1>START CODE</h1>
+    <h1 align= center>START CODE</h1>
     <p>🌎 - GitHub Oficial Da Start Code.</p>
 </div>
 
